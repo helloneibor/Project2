@@ -1,0 +1,38 @@
+body {
+    background-color: #206ce8;
+/*    border-style: solid;
+    border-color: black;
+    border-width: 5px;*/
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    height: 75px;
+    background-color: #206ce8;
+    border-bottom-color: black;
+    border-style: solid;
+    border-color: black;
+    width: 100%;
+    display: inline-block;
+}
+
+.header_nav {
+    background-color: green;
+    display:inline-block;
+    width: 79%;
+}
+
+nav li {
+    display: inline-block;
+    width: 8%;
+    text-align: right;
+    margin-left: 24%;
+}
+
+h2 {
+    width:20%;
+    display: inline-block;
+    margin-left: 10px;
+}
+
